@@ -1,5 +1,5 @@
 # Dzmitry Sudnik
-<img src="/CV_Markdown/myimg.jpeg" alt="my_img" width="400"> <br>
+<img src="myimg.jpeg" alt="my_img" width="400"> <br>
 ___
 ### Junior Frontend Developer <br>
 ---- 
