@@ -14,9 +14,10 @@ ___
 *September 2024 - now* <br>
 ---  
 ### Education   
-##### Engineer of Computer Science <br>
+#### Engineer of Computer Science <br>
 **Bachelor degree, High Banking School in Gdansk**   
-*September 2027 - July 2021* <br>
+*September 2027 - July 2021* <br>   
+
 I have Completed a Bachelor's degree in Computer Science at the University.   
 During my studies, I learned technologies such as Python, C#, SQL, network protocols, the MS Office, HTML5\CSS3 and JavaScript.   
 ***
